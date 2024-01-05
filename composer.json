@@ -1,0 +1,15 @@
+{
+    "name": "kkkaue/buscador-cursos",
+    "description": "projeto que busca cursos no site da alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Kauê de Magalhães",
+            "email": "kauedemagalhaes27@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/dom-crawler": "^5.3"
+    }
+}
