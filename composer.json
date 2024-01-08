@@ -32,6 +32,12 @@
             "@phan",
             "@test"
         ]
+    },
+    "scripts-descriptions": {
+        "test": "Roda os testes",
+        "cs": "Roda o PHP Code Sniffer",
+        "phan": "Roda o Phan para analisar o código",
+        "check": "Roda as verificações de código. (cs, phan e test)"
     }
 
 }
