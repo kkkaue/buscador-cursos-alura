@@ -38,6 +38,9 @@
         "cs": "Roda o PHP Code Sniffer",
         "phan": "Roda o Phan para analisar o código",
         "check": "Roda as verificações de código. (cs, phan e test)"
-    }
-
+    },
+    "license": "GPL-3.0",
+    "bin": [
+        "busca-cursos.php"
+    ]
 }
